@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.adc039338826f3472f99.js",
+        "/polyfills.5d3fb9493999a51d6359.js",
+        "/runtime.26209474bfa8dc87a77c.js",
+        "/styles.2faa3b62d482e1fc676a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/facebook.svg",
+        "/assets/github.svg",
+        "/assets/google.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/piggy.png",
+        "/assets/img/screenshot_1.png",
+        "/assets/mdi/facebook.svg",
+        "/assets/mdi/facebook2.svg",
+        "/assets/mdi/github-circle.svg",
+        "/assets/mdi/github-circle1.svg",
+        "/assets/mdi/google.svg",
+        "/assets/mdi/google2.svg",
+        "/assets/mdi/twitter.svg",
+        "/assets/mdi/twitter1.svg",
+        "/assets/phone.svg",
+        "/assets/twitter.svg",
+        "/assets/user/account-check.svg",
+        "/assets/user/account-edit.svg",
+        "/assets/user/account-off.svg",
+        "/assets/user/account-remove.svg",
+        "/assets/user/account.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/facebook.svg": "bcfc78953fba7c1a7b8b5a96a57495763df6e646",
+    "/assets/github.svg": "bdaec9dbb3190667ed9dd7a1f4bd40c9b164edb0",
+    "/assets/google.svg": "4524589b0dceefb6ae6389f36634441df69152d5",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/piggy.png": "e3fd30b02206776f6383648cb259cce83bc2c4de",
+    "/assets/img/screenshot_1.png": "f00a191d69a19ca2c30320bce5f230b5353692dc",
+    "/assets/mdi/facebook.svg": "ee2d00faa6c875a9faf47876cdee874c3dc427e1",
+    "/assets/mdi/facebook2.svg": "ee2d00faa6c875a9faf47876cdee874c3dc427e1",
+    "/assets/mdi/github-circle.svg": "19fbf418dc98ac6b0727a949595be27cdfce0780",
+    "/assets/mdi/github-circle1.svg": "19fbf418dc98ac6b0727a949595be27cdfce0780",
+    "/assets/mdi/google.svg": "33733badda8c65e8c4d8fc3f94adbc04b9afcbfb",
+    "/assets/mdi/google2.svg": "33733badda8c65e8c4d8fc3f94adbc04b9afcbfb",
+    "/assets/mdi/twitter.svg": "c9e058c45f1a04929f098febc9d93d172ff5f910",
+    "/assets/mdi/twitter1.svg": "c9e058c45f1a04929f098febc9d93d172ff5f910",
+    "/assets/phone.svg": "5216a6ea0d25313cafcbcfe5c79431cfa9ad5434",
+    "/assets/twitter.svg": "6b6e7c14478fe8dbac69ba7d65ca0c5effa05882",
+    "/assets/user/account-check.svg": "e874dd92b65fef587e787ba77083f87b0a4f537b",
+    "/assets/user/account-edit.svg": "66306775ea986ccd809c03ab63d85882ef45e06c",
+    "/assets/user/account-off.svg": "b6e09f860788889881a03e920798383f91f78476",
+    "/assets/user/account-remove.svg": "58622df7121518c647e319504fe95315f7e02967",
+    "/assets/user/account.svg": "6065877d7ec71c57d65fd3bae2e7cfaac35d55d7",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "655004f8b3c5430eed952f6400b91644567ff0b9",
+    "/main.adc039338826f3472f99.js": "c73fff24bcec440b963087264fa6c36d05445423",
+    "/polyfills.5d3fb9493999a51d6359.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.2faa3b62d482e1fc676a.css": "82bf3108d9a77eace8af4da44a9011e8fea70017"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
